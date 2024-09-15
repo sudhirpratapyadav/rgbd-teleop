@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+
+# Large data files
+*.npy
+*.pkl
+*.pt
+
+# Local configuration
+*.local
